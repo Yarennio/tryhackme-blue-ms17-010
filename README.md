@@ -263,24 +263,6 @@ Cracked passwords are not shared.
 
 ---
 
-# CV Value / Portfolio Highlights
-
-- Understanding of kernel-level RCE impact
-    
-- Post-exploit session management
-    
-- Shell → Meterpreter upgrade implementation
-    
-- Process stabilization knowledge
-    
-- Windows credential architecture
-    
-- NTLM hash analysis skills
-    
-- Troubleshooting failure scenarios
-    
-
----
 
 # Conclusion
 
@@ -296,3 +278,21 @@ On an unpatched Windows system:
 was analyzed **ethically in a lab environment**.
 
 Focus: **Methodology + Operational Flow + Technical Depth + Defensive Awareness**
+
+---
+#  ⋆ Portfolio-
+
+- Understanding of kernel-level RCE impact
+    
+- Post-exploit session management
+    
+- Shell → Meterpreter upgrade implementation
+    
+- Process stabilization knowledge
+    
+- Windows credential architecture
+    
+- NTLM hash analysis skills
+    
+- Troubleshooting failure scenarios
+    
